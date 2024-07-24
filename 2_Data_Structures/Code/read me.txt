@@ -1,0 +1,3 @@
+This is your first attempt at reading a file in Python. I hope you can accomplish this in ease.
+If you find it difficult, don't give up. Always remember: "We fall only to get back up again." So never give up.
+Let there be knowledge. Good luck on becoming an amazing programmer.
